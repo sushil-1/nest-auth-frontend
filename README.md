@@ -3,7 +3,7 @@
 
 First, Clone this repository on your local.
 
-# Install dependencies
+## Install dependencies
 
 ```bash
 npm install
